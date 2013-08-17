@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="354.30392"
+   width="461.05258"
    height="78.952751"
    id="svg2991"
    inkscape:version="0.48.4 r9939"
@@ -26,34 +26,36 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="828"
-     id="namedview9"
+     id="namedview3039"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:bbox-paths="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="205.4192"
-     inkscape:cy="49.333889"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="1.6567055"
+     inkscape:cx="317.8915"
+     inkscape:cy="24.900568"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2991"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
      showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-object-midpoints="false"
-     inkscape:snap-center="false"
-     inkscape:snap-midpoints="false" />
+     inkscape:guide-bbox="true" />
   <defs
      id="defs2993" />
   <metadata
@@ -69,23 +71,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-105.93562,-397.79511)"
-     id="silkscreen">
-    <path
-       d="m 106.43562,398.29511 0,77.95275 87.56281,0 13.71874,-11.82123 227.11611,0 8.44957,-13.85827 16.45669,0 0,-26.59375 -16.45669,0 -8.44957,-13.85827 -227.11611,0 -13.71874,-11.82123 z"
-       id="outline"
-       style="fill:none;stroke:#ffffff;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-  </g>
-  <g
-     transform="translate(-91.504687,-391.84665)"
+     transform="translate(-91.504692,-391.84665)"
      id="board">
     <path
-       d="m 92.004688,392.34665 0,77.95275 87.562812,0 13.71874,-11.82123 227.11611,0 8.44957,-13.85827 16.45669,0 0,-26.59375 -16.45669,0 -8.44957,-13.85827 -227.11611,0 -13.71874,-11.82123 z"
+       d="m 92.004688,392.34665 0,77.95275 96.892442,0 13.71874,-11.82123 78.58934,0.0632 0,-26.57517 3.5433,3.7e-4 0,26.57444 c 1.58479,0.0661 183.95983,-0.0629 183.95983,-0.0629 l 8.44957,-13.87721 74.89936,-4.1e-4 0,-26.57786 -74.89938,0.0594 -8.44956,-13.91417 -58.88198,5.1e-4 0,26.5748 -3.54331,0 0,-26.5748 -203.66756,0 -13.71874,-11.82123 z"
        id="path3775"
        style="color:#000000;fill:#348040;fill-opacity:0.50196078;stroke:none;stroke-width:0.44999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+  </g>
+  <g
+     transform="translate(-105.93562,-397.79511)"
+     id="silkscreen">
+    <path
+       d="m 106.43562,398.29511 0,77.95275 96.89244,0 13.71874,-11.82123 78.58934,0.0632 0,-26.57517 3.5433,3.7e-4 0,26.57444 183.95983,-0.0629 8.44957,-13.87721 74.89936,-4.1e-4 0,-26.57786 -74.89938,0.0594 -8.44956,-13.91417 -58.88198,0 0,26.5748 -3.54331,0 0,-26.5748 -203.66756,5.1e-4 -13.71874,-11.82123 z"
+       id="outline"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
   </g>
 </svg>

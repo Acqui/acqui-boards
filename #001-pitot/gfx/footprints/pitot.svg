@@ -8,9 +8,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.2"
-   width="34"
-   height="35"
-   viewBox="0 0 377.7778 388.88887"
+   width="40.490162"
+   height="20"
+   viewBox="0 0 449.89071 222.22221"
    id="svg2">
   <desc
      id="desc3">
@@ -31,35 +31,37 @@
   </metadata>
   <defs
      id="defs85" />
-  <g id="copper1">
   <g
-     transform="matrix(0,-3.1749966,13.883063,0,-141.23517,338.28178)"
-     id="g3291">
+     id="copper1">
     <g
-       id="g3293">
+       transform="matrix(0,-3.1749966,13.883063,0,-141.23517,254.94845)"
+       id="g3291">
       <g
-         id="g3295">
+         id="g3293">
         <g
-           id="g3297">
+           id="g3295">
           <g
-             id="g3299">
+             id="g3297">
             <g
-               id="g72-4-4-1-5">
+               id="g3299">
               <g
-                 id="g74-2-0-4-9">
+                 id="g72-4-4-1-5">
                 <g
-                   id="g51-5-4-0-9"
-                   style="stroke-width:0">
+                   id="g74-2-0-4-9">
                   <g
-                     id="g53-18-8-8-7"
+                     id="g51-5-4-0-9"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector7pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-8-8-7"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector7pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -68,35 +70,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555479,12.891416,0,-120.03584,256.92505)"
-     id="g3306">
     <g
-       id="g3308">
+       transform="matrix(0,0.70555479,12.891416,0,-120.03584,173.59172)"
+       id="g3306">
       <g
-         id="g3310">
+         id="g3308">
         <g
-           id="g3312">
+           id="g3310">
           <g
-             id="g3314">
+             id="g3312">
             <g
-               id="g72-4-9-5">
+               id="g3314">
               <g
-                 id="g74-2-3-3">
+                 id="g72-4-9-5">
                 <g
-                   id="g51-5-5-1"
-                   style="stroke-width:0">
+                   id="g74-2-3-3">
                   <g
-                     id="g53-18-7-8"
+                     id="g51-5-5-1"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector2pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-7-8"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector2pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -105,35 +107,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555479,12.891415,0,-120.03582,68.036144)"
-     id="g3321">
     <g
-       id="g3323">
+       transform="matrix(0,0.70555479,12.891415,0,-120.03582,-15.297188)"
+       id="g3321">
       <g
-         id="g3325">
+         id="g3323">
         <g
-           id="g3327">
+           id="g3325">
           <g
-             id="g3329">
+             id="g3327">
             <g
-               id="g72-4-9-5-6">
+               id="g3329">
               <g
-                 id="g74-2-3-3-6">
+                 id="g72-4-9-5-6">
                 <g
-                   id="g51-5-5-1-4"
-                   style="stroke-width:0">
+                   id="g74-2-3-3-6">
                   <g
-                     id="g53-18-7-8-1"
+                     id="g51-5-5-1-4"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector14pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-7-8-1"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector14pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -142,35 +144,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555479,2.9749425,0,147.5131,68.036144)"
-     id="g3336">
     <g
-       id="g3338">
+       transform="matrix(0,0.70555479,2.9749425,0,147.5131,-15.297188)"
+       id="g3336">
       <g
-         id="g3340">
+         id="g3338">
         <g
-           id="g3342">
+           id="g3340">
           <g
-             id="g3344">
+             id="g3342">
             <g
-               id="g72-4-7-0-8-3-0-7-1">
+               id="g3344">
               <g
-                 id="g74-2-6-6-4-6-6-2-1">
+                 id="g72-4-7-0-8-3-0-7-1">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8"
+                     id="g51-5-8-3-8-8-1-1-0"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector13pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector13pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -179,35 +181,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749416,0,191.95755,123.59171)"
-     id="g3351">
     <g
-       id="g3353">
+       transform="matrix(0,0.70555483,2.9749416,0,191.95755,40.258378)"
+       id="g3351">
       <g
-         id="g3355">
+         id="g3353">
         <g
-           id="g3357">
+           id="g3355">
           <g
-             id="g3359">
+             id="g3357">
             <g
-               id="g72-4-7-0-8-3-0-7-1-1">
+               id="g3359">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-2">
+                 id="g72-4-7-0-8-3-0-7-1-1">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-1"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-2">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-8"
+                     id="g51-5-8-3-8-8-1-1-0-1"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector9pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-8"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector9pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -216,35 +218,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749416,0,191.95755,201.36949)"
-     id="g3366">
     <g
-       id="g3368">
+       transform="matrix(0,0.70555483,2.9749416,0,191.95755,118.03616)"
+       id="g3366">
       <g
-         id="g3370">
+         id="g3368">
         <g
-           id="g3372">
+           id="g3370">
           <g
-             id="g3374">
+             id="g3372">
             <g
-               id="g72-4-7-0-8-3-0-7-1-0">
+               id="g3374">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-4">
+                 id="g72-4-7-0-8-3-0-7-1-0">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-2"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-4">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-7"
+                     id="g51-5-8-3-8-8-1-1-0-2"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector6pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-7"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector6pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -253,35 +255,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749425,0,147.5131,256.92504)"
-     id="g3381">
     <g
-       id="g3383">
+       transform="matrix(0,0.70555483,2.9749425,0,147.5131,173.59171)"
+       id="g3381">
       <g
-         id="g3385">
+         id="g3383">
         <g
-           id="g3387">
+           id="g3385">
           <g
-             id="g3389">
+             id="g3387">
             <g
-               id="g72-4-7-0-8-3-0-7-1-8">
+               id="g3389">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-5">
+                 id="g72-4-7-0-8-3-0-7-1-8">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-8"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-5">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-0"
+                     id="g51-5-8-3-8-8-1-1-0-8"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector1pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-0"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector1pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -290,35 +292,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749424,0,314.17978,-20.852763)"
-     id="g3396">
     <g
-       id="g3398">
+       transform="matrix(0,0.70555483,2.9749424,0,386.29269,-15.297197)"
+       id="g3396">
       <g
-         id="g3400">
+         id="g3398">
         <g
-           id="g3402">
+           id="g3400">
           <g
-             id="g3404">
+             id="g3402">
             <g
-               id="g72-4-7-0-8-3-0-7-1-3">
+               id="g3404">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-0">
+                 id="g72-4-7-0-8-3-0-7-1-3">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-4"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-0">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-6"
+                     id="g51-5-8-3-8-8-1-1-0-4"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector12pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-6"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector12pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -327,35 +329,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749423,0,314.17978,23.591693)"
-     id="g3411">
     <g
-       id="g3413">
+       transform="matrix(0.70555483,0,0,-2.9749423,351.3695,63.598008)"
+       id="g3411">
       <g
-         id="g3415">
+         id="g3413">
         <g
-           id="g3417">
+           id="g3415">
           <g
-             id="g3419">
+             id="g3417">
             <g
-               id="g72-4-7-0-8-3-0-7-1-14">
+               id="g3419">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-42">
+                 id="g72-4-7-0-8-3-0-7-1-14">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-3"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-42">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-06"
+                     id="g51-5-8-3-8-8-1-1-0-3"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector11pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-06"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector11pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -364,35 +366,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749424,0,314.17978,68.036133)"
-     id="g3426">
     <g
-       id="g3428">
+       transform="matrix(0.70555483,0,0,-2.9749424,262.48061,63.598009)"
+       id="g3426">
       <g
-         id="g3430">
+         id="g3428">
         <g
-           id="g3432">
+           id="g3430">
           <g
-             id="g3434">
+             id="g3432">
             <g
-               id="g72-4-7-0-8-3-0-7-1-31">
+               id="g3434">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-6">
+                 id="g72-4-7-0-8-3-0-7-1-31">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-6"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-6">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-4"
+                     id="g51-5-8-3-8-8-1-1-0-6"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector10pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-4"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector10pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -401,35 +403,36 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749424,0,314.17978,256.92503)"
-     id="g3441">
     <g
-       id="g3443">
+       transform="matrix(0.70555483,0,0,-2.9749423,307.03439,63.598008)"
+       id="g3456">
       <g
-         id="g3445">
+         id="g3458">
         <g
-           id="g3447">
+           id="g3460">
           <g
-             id="g3449">
+             id="g3462">
             <g
-               id="g72-4-7-0-8-3-0-7-1-4">
+               id="g3464">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-1">
+                 id="g72-4-7-0-8-3-0-7-1-7">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-9"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-8">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-3"
+                     id="g51-5-8-3-8-8-1-1-0-29"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector4pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-75"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         ry="0"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector8pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -438,35 +441,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749423,0,314.17978,112.48059)"
-     id="g3456">
     <g
-       id="g3458">
+       transform="matrix(0.70555483,0,0,2.9749424,306.81569,158.62421)"
+       id="g3441">
       <g
-         id="g3460">
+         id="g3443">
         <g
-           id="g3462">
+           id="g3445">
           <g
-             id="g3464">
+             id="g3447">
             <g
-               id="g72-4-7-0-8-3-0-7-1-7">
+               id="g3449">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-8">
+                 id="g72-4-7-0-8-3-0-7-1-4">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-29"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-1">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-75"
+                     id="g51-5-8-3-8-8-1-1-0-9"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector8pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-3"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector4pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -475,35 +478,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749424,0,314.17978,345.81392)"
-     id="g3471">
     <g
-       id="g3473">
+       transform="matrix(0.70555483,0,0,2.9749424,351.26017,158.62421)"
+       id="g3471">
       <g
-         id="g3475">
+         id="g3473">
         <g
-           id="g3477">
+           id="g3475">
           <g
-             id="g3479">
+             id="g3477">
             <g
-               id="g72-4-7-0-8-3-0-7-1-147">
+               id="g3479">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-3">
+                 id="g72-4-7-0-8-3-0-7-1-147">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-5"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-3">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-48"
+                     id="g51-5-8-3-8-8-1-1-0-5"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector0pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-48"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector0pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -512,35 +515,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749423,0,314.17978,212.4806)"
-     id="g3486">
     <g
-       id="g3488">
+       transform="matrix(0.70555483,0,0,2.9749423,262.37126,158.62421)"
+       id="g3486">
       <g
-         id="g3490">
+         id="g3488">
         <g
-           id="g3492">
+           id="g3490">
           <g
-             id="g3494">
+             id="g3492">
             <g
-               id="g72-4-7-0-8-3-0-7-1-04">
+               id="g3494">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-43">
+                 id="g72-4-7-0-8-3-0-7-1-04">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-7"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-43">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-1"
+                     id="g51-5-8-3-8-8-1-1-0-7"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector5pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-1"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector5pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -549,35 +552,35 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     transform="matrix(0,0.70555483,2.9749423,0,314.17978,301.36949)"
-     id="g3501">
     <g
-       id="g3503">
+       transform="matrix(0,0.70555483,-2.9749423,0,480.04608,173.5917)"
+       id="g3501">
       <g
-         id="g3505">
+         id="g3503">
         <g
-           id="g3507">
+           id="g3505">
           <g
-             id="g3509">
+             id="g3507">
             <g
-               id="g72-4-7-0-8-3-0-7-1-78">
+               id="g3509">
               <g
-                 id="g74-2-6-6-4-6-6-2-1-7">
+                 id="g72-4-7-0-8-3-0-7-1-78">
                 <g
-                   id="g51-5-8-3-8-8-1-1-0-87"
-                   style="stroke-width:0">
+                   id="g74-2-6-6-4-6-6-2-1-7">
                   <g
-                     id="g53-18-3-4-0-4-1-2-8-2"
+                     id="g51-5-8-3-8-8-1-1-0-87"
                      style="stroke-width:0">
-                    <rect
-                       width="31.496099"
-                       height="11.2047"
-                       x="29.555099"
-                       y="10.1732"
-                       id="connector3pad"
-                       style="fill:#f7bd13;stroke:none" />
+                    <g
+                       id="g53-18-3-4-0-4-1-2-8-2"
+                       style="stroke-width:0">
+                      <rect
+                         width="31.496099"
+                         height="11.2047"
+                         x="29.555099"
+                         y="10.1732"
+                         id="connector3pad"
+                         style="fill:#f7bd13;stroke:none" />
+                    </g>
                   </g>
                 </g>
               </g>
@@ -586,6 +589,5 @@
         </g>
       </g>
     </g>
-  </g>
   </g>
 </svg>
