@@ -1,0 +1,24 @@
+
+
+Power supply / Bus communication
+------------------------------------------------------------
+1x -- LM2937IMP-12           -- SOT-223       -- #1469226
+1x -- ADR4533BRZ             -- SOIC-8        -- #2112690
+1x -- SN74CB3Q3305           -- TSSOP-8       -- #1601165
+2x -- Tantalum 22_uF, 10_V   -- B 3528 [SMD]
+3x -- Ceramic 100_nF, 10_V   -- 0805 [SMD]
+5x -- 22_kOhm +5%            -- 0805 [SMD]
+
+
+Current/voltage resistance measurement
+------------------------------------------------------------
+4x -- LM334M       -- SO-8             -- #1469226
+1x -- LTC2493      -- DFN-14           -- #2294651
+4x -- 1N4148       -- DO-213 AB [SMD]
+4x -- 220_Ohm +1%  -- 0805 [SMD]
+4x -- 22_Ohm +1%   -- 0805 [SMD]
+
+
+Capacitance measurement
+------------------------------------------------------------
+1x -- AD7746ARUZ   -- TSSOP-16         -- #1078332
